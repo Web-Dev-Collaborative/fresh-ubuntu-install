@@ -100,3 +100,4 @@
 [2021-06-08 23:42:03.244] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/bryan/.nvm/.cache/bin' is in submodule '.nvm'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
 [2021-06-08 23:42:03.398] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 424
 [2021-06-08 23:42:10.252] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 424
+[2021-06-08 23:42:15.318] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 424
