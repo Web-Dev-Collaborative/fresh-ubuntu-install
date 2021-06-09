@@ -101,3 +101,7 @@
 [2021-06-08 23:42:03.398] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 424
 [2021-06-08 23:42:10.252] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 424
 [2021-06-08 23:42:15.318] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 424
+[2021-06-08 23:43:47.172] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2021-06-08 23:43:47.172] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/bryan/.vscode-server/bin/054a9295330880ed74ceaedda236253b4f39a335/extensions/typescript-language-features/dist/extension
+[2021-06-08 23:44:32.624] [exthost] [info] extension host terminating: received terminate message from renderer
+[2021-06-08 23:44:33.641] [exthost] [info] exiting with code 0
