@@ -482,3 +482,4 @@ From https://github.com/bgoonz/fresh-ubuntu-install
 > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
 > git remote --verbose
 > git config --get commit.template
+> git status -z -u
