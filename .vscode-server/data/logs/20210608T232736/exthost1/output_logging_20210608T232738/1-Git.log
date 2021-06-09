@@ -72,3 +72,229 @@ Open repository: /home/bryan
 > git ls-files --stage -- /home/bryan/.bashrc
 > git config --get commit.template
 > git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :.landscape/sysinfo.log
+> git ls-files --stage -- /home/bryan/.landscape/sysinfo.log
+> git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+> git check-ignore -v -z --stdin
+> git ls-files --stage -- /home/bryan/.landscape/sysinfo.log
+> git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+> git show --textconv :.landscape/sysinfo.log
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git check-ignore -v -z --stdin
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/bryan/.landscape/sysinfo.log
+> git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+> git show --textconv :.landscape/sysinfo.log
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :.bashrc
+> git ls-files --stage -- /home/bryan/.bashrc
+> git cat-file -s b488fcc4cee656840d7a756298456eaa243b3e46
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/bryan/.bashrc
+> git cat-file -s b488fcc4cee656840d7a756298456eaa243b3e46
+> git show --textconv :.bashrc
+> git ls-files --stage -- /home/bryan/.bashrc
+> git cat-file -s b488fcc4cee656840d7a756298456eaa243b3e46
+> git show --textconv :.bashrc
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/bryan/.bashrc
+> git cat-file -s b488fcc4cee656840d7a756298456eaa243b3e46
+> git show --textconv :.bashrc
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git ls-files --stage -- /home/bryan/.bashrc
+> git symbolic-ref --short HEAD
+> git cat-file -s b488fcc4cee656840d7a756298456eaa243b3e46
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :.bashrc
+> git check-ignore -v -z --stdin
+> git fetch
+From https://github.com/bgoonz/fresh-ubuntu-install
+ * [new branch]      renovate/configure -> origin/renovate/configure
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/bryan/.bashrc
+> git cat-file -s b488fcc4cee656840d7a756298456eaa243b3e46
+> git status -z -u
+> git show --textconv :.bashrc
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
